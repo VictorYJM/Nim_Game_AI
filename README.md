@@ -3,7 +3,7 @@ An artificial intelligence implemented using the Minimax algorithm with Alpha-Be
 
 # Group
 * [Aldo Junio Souza Brandão](https://github.com/AldoJDev)
-* [Leonardo Ribeiro Gonzaga de Lima](https://github.com/LeoLiima)
+* [Leonardo Ribeiro Gonzaga de Lima](https://github.com/cc23579)
 * [Victor Yuji Mimura](https://github.com/VictorYJM)
 
 # Description
